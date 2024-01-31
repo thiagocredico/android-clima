@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trybe Clima</string>
+    <string name="daily_forecast">Previsão Diária</string>
+    <string name="humidity">Umidade</string>
+    <string name="temp_two_digits_formatted_celsius">%.2f°C</string>
+    <string name="temp_one_digit_formatted_celsius">%.0f°C</string>
+    <string name="humidity_formatted_celsius">%d%%</string>
+    <string name="error_mesage">Um erro ocrreu durante a requisição. Por favor verifique se o nome da cidade está correto ou se o dispositivo possui acesso a Internet.</string>
+</resources>

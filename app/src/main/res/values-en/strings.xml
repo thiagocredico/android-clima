@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trybe Clima</string>
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="humidity">Humidity</string>
+    <string name="temp_two_digits_formatted_celsius">%.2f°C</string>
+    <string name="temp_one_digit_formatted_celsius">%.0f°C</string>
+    <string name="humidity_formatted_celsius">%d%%</string>
+    <string name="error_mesage">A error occurred during the request. Please verify if the city name is correct or the devise has Internet connection.</string>
+</resources>
